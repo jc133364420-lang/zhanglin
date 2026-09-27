@@ -1,0 +1,6 @@
+{
+  "name": "BYBIT - 數字資產與Web3預付卡",
+  "description": "BYBIT 蘋果端移動應用：集數字資產管理、虛擬與實體Visa預付卡、幣種兌換及安全防護於一體的新一代加密資產錢包。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
